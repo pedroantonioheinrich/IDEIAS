@@ -2,7 +2,8 @@
 
 # The Leverage Protocol (TLP)
 ## Uma rede social onde seu alcance é o somatório de quem te segue
-
+criado por: Pedro Antônio Heinrich
+27/03/2026
 ---
 
 ## 1. A Ideia em Uma Frase
