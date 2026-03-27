@@ -1,5 +1,3 @@
-Perfeito. Vou adicionar a seção 13, detalhando como a mecânica de empréstimo de audiência cria um poderoso sistema de autorregulação contra conteúdos ofensivos, crimes e más condutas.
-
 ---
 
 # The Leverage Protocol (TLP)
