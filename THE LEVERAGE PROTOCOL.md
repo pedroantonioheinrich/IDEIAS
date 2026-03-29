@@ -1,6 +1,6 @@
 ---
 
-# The Leverage Protocol (TLP)
+# NODS 
 ## Uma rede social onde seu alcance é o somatório de quem te segue
 
 ---
@@ -140,16 +140,6 @@ Parecido, mas com uma diferença crucial: no início do Twitter, seguir alguém 
 
 ---
 
-## 9. O Nome "The Leverage Protocol"
-
-**Leverage** = alavancagem.
-
-- Você usa sua audiência como **alavanca** para dar voz a quem merece
-- Um único follow de uma pessoa grande **alavanca** uma conta pequena
-- A confiança é a **alavanca** que move a rede
-
----
-
 ## 10. Resumo Visual
 
 ```
@@ -258,7 +248,7 @@ Resultado:
 
 **C. Transparência Total**
 
-No TLP, **todas as conexões são públicas**. Qualquer pessoa pode ver:
+No Nods, **todas as conexões são públicas**. Qualquer pessoa pode ver:
 
 - Quem você segue
 - Quem te segue
@@ -312,7 +302,7 @@ A autorregulação não elimina a necessidade de moderação, mas a **reduz dras
 
 ## 14. Conclusão Final
 
-O **Leverage Protocol** não é apenas uma rede social diferente. É uma **inversão completa da lógica atual**.
+O **NODS** não é apenas uma rede social diferente. É uma **inversão completa da lógica atual**.
 
 - Em vez de algoritmos opacos → **curadoria humana responsável**
 - Em vez de alcance comprado → **alcance conquistado por confiança**
